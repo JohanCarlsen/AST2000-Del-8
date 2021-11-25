@@ -1,0 +1,7 @@
+Solutions to 2A.4
+
+ NOTE: None of these answers are relevant for the project!
+Quick jump to part 1, exercise 7:
+7) L' = 1200 km. The rest is given in the spaceship frame in mcast
+10) tC = 1479.594010 km = 4.935394 ms. xC = 865.562496 km
+12) L = 973.239950 km
