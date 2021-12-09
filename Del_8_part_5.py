@@ -50,6 +50,7 @@ plt.plot(ty, tym(ty), label=r'$t_{Y\prime}\;[yr]$')
 plt.xlabel(r'$t_Y\;[yr]$', weight='bold', fontsize=16)
 plt.ylabel(r'$t_{Y\prime}\;[yr]$', weight='bold', fontsize=16)
 plt.legend(prop={'size': 16})
+plt.savefig('time_plot.png')
 plt.show()
 
 print(tp - 4 + tp - 4 + 4)          # 292 + 292 + 4
